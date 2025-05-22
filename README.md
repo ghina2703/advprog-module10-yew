@@ -1,8 +1,8 @@
-Nama : Ghina Nabila Gunawan
+**Nama : Ghina Nabila Gunawan**
 
-Kelas : AdvProg - A
+**Kelas : AdvProg - A**
 
-Asdos : HAN
+**Asdos : HAN**
 
 ## Tutorial Module 10 - YewChat
 
@@ -20,3 +20,11 @@ Pengguna dapat mengetik pesan pada kotak input di bawah dan mengirimnya dengan t
 ![Screenshot WebChat - Login](img/img_1.png)
 
 
+### Experiment 3.2: Be Creative!
+
+Saya menambahkan sentuhan visual baru supaya tampilan chat lebih hidup. Tujuan utamanya adalah membuat interface yang lebih enak dilihat dan mudah dikenali oleh pengguna.
+
+![Screenshot WebChat - 3.2](img/img_2.png)
+
+* Avatar pengguna ditampilkan berdasarkan inisial nama, dengan latar warna yang berbeda:
+* Pesan pengguna ditampilkan dalam bubble chat yang rapi dan terpisah jelas berdasarkan pengirim.
